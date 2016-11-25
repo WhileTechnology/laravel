@@ -1,0 +1,22 @@
+
+
+Application analysis report & some questions: 
+ 
+Announcements : ok
+Bookings : ok
+Profiles : (need to be discussed) we have admin user & members and each have their own details. What is the idea behind profiles ?. What is JK facility ?.
+Food : ok
+National Meetings : ok
+Finance / REIMBURSEMENT :  request reimbursement, view, edit and approve and send approval notification to the user. ok
+Admin :
+	Announcement Subscribers : admin has the right to add Announcement subscribers. But then where it is used ?.
+    Bookings Subscribers: admin has the right to add Bookings subscribers. But then where it is used ?.
+	 
+	Portal Updates :
+		Updates Types : ok
+		Manage Updates :(need to discussed)
+
+	Portfolio
+		Portfolio Category : (need to discussed)
+		Manage Portfolio : (need to discussed)
+		
